@@ -1,0 +1,6 @@
+{
+  "name": "بوابة فصول مانجا ون بيس | One Piece Arabic Manga Hub",
+  "description": "منصة شاملة لتتبع وإضافة وتصفح روابط فصول مانجا ون بيس المترجمة إلى اللغة العربية مع تصنيف الآركات وحفظ تقدم القراءة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
